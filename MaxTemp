@@ -1,0 +1,2 @@
+val conf = new SparkConf().setAppName("Max Temperature")
+val sc = new SparkContext(conf)
